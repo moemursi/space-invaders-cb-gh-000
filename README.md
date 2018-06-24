@@ -1,7 +1,7 @@
 # Space Invaders Lab
 
 ## Instructions
-
+u
 Space flight is no joke, and neither is this lab. You're going to need to create two ES6 JS classes, `Spaceship` and `CrewMember`. These classes will pump out instances that are by default unable to interact with one another. A space ship will be inactive if it is created without a crew. And a crew member by default will be hanging out in the Cantina looking for a ride if they were not put inside a ship when it is initialized.
 
 Crew members will also be unable to use their special abilities if they're not assigned to a ship. For example, a pilot cannot `engageWarpDrive` if s/he is not in a ship and, therefore, can't make the Kessel Run in less than twelve parsecs. Crew members also should be unable to perform certain actions that their positions are incapable of doing.
